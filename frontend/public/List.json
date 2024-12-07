@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "name": "book one",
+        "title": "Book One",
+        "description": "lorem is a dummy text of vs code html or ",
+        "category": "free",
+        "price":  0, 
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1731474835~exp=1731478435~hmac=8bad373961fb3e78e434593f7a432d53c17f43157025f1e1d0fff71570eb8b0e&w=740"
+    },
+    {
+        "id": 2,
+        "name": " book two",
+        "title": "Book One",
+        "description": "lorem is a dummy text of vs code html or ",
+        "category": "free",
+        "price":  0, 
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1731474835~exp=1731478435~hmac=8bad373961fb3e78e434593f7a432d53c17f43157025f1e1d0fff71570eb8b0e&w=740"
+    },
+    {
+        "id": 3,
+        "name": "the jungle book",
+        "title": "Book One",
+        "description": "lorem is a dummy text of vs code html or ",
+        "category": "paid",
+        "price":  200, 
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1731474835~exp=1731478435~hmac=8bad373961fb3e78e434593f7a432d53c17f43157025f1e1d0fff71570eb8b0e&w=740"
+    },
+    {
+        "id": 4,
+        "name": "the jungle book",
+        "title": "Book One",
+        "description": "lorem is a dummy text of vs code html or ",
+        "category": "paid",
+        "price":  200, 
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1731474835~exp=1731478435~hmac=8bad373961fb3e78e434593f7a432d53c17f43157025f1e1d0fff71570eb8b0e&w=740"
+    },
+    {
+        "id": 5,
+        "name": "the jungle paid",
+        "title": "Book One",
+        "description": "lorem is a dummy text of vs code html or ",
+        "category": "paid",
+        "price":  350, 
+        "image": "https://www.freepik.com/free-photo/open-book-concept-fairy-tale-fiction-storytelling_65709979.htm#fromView=keyword&page=1&position=18&uuid=53686c5a-c848-4f18-8c1e-a752ab7292b8"
+    },
+    {
+        "id": 6,
+        "name": "book three",
+        "title": "Book One",
+        "description": "lorem is a dummy text of vs code html or ",
+        "category": "free",
+        "price":  0, 
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1731474835~exp=1731478435~hmac=8bad373961fb3e78e434593f7a432d53c17f43157025f1e1d0fff71570eb8b0e&w=740"
+    },
+    {
+        "id": 6,
+        "name": "book four",
+        "title": "Book One",
+        "description": "lorem is a dummy text of vs code html or ",
+        "category": "free",
+        "price":  0, 
+        "image": "https://www.freepik.com/free-vector/flat-business-young-woman-working-office-desk-worker-sitting-table-with-computer-analyzing-statistical-information-charts-graphs-digital-data-analysis-statistical-concept_21458063.htm#fromView=image_search_similar&page=2&position=0&uuid=98694e35-4fe6-4b11-a775-972872addfd9"
+    },
+    {
+        "id": 6,
+        "name": "book four",
+        "title": "Book One",
+        "description": "lorem is a dummy text of vs code html or ",
+        "category": "free",
+        "price":  0, 
+        "image": "https://www.freepik.com/free-vector/flat-business-young-woman-working-office-desk-worker-sitting-table-with-computer-analyzing-statistical-information-charts-graphs-digital-data-analysis-statistical-concept_21458063.htm#fromView=image_search_similar&page=2&position=0&uuid=98694e35-4fe6-4b11-a775-972872addfd9"
+    },
+    {
+        "id": 6,
+        "name": "book four",
+        "title": "Book One",
+        "description": "lorem is a dummy text of vs code html or ",
+        "category": "free",
+        "price":  0, 
+        "image": "https://www.freepik.com/free-vector/flat-business-young-woman-working-office-desk-worker-sitting-table-with-computer-analyzing-statistical-information-charts-graphs-digital-data-analysis-statistical-concept_21458063.htm#fromView=image_search_similar&page=2&position=0&uuid=98694e35-4fe6-4b11-a775-972872addfd9"
+    }
+]
